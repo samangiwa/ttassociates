@@ -1,0 +1,247 @@
+.login_big
+{
+	font-family:Verdana;
+	font-size:12px;
+	letter-spacing:12px;
+	color:#FFFFFF;
+}
+
+.text1
+{
+	font-family:Arial;
+	font-size:8px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+}
+.Linktab
+{
+	background-color:#484848;
+	color:white;	
+	margin-right:3px;
+	font-family:Verdana;
+	font-size:9px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+
+
+
+.textbig
+{
+	font-family:Verdana;
+	font-size:12px;	
+	color:#FFFFFF;
+	letter-spacing:4px;
+}
+
+.aboutLink
+{
+	font-family:Verdana;
+	font-size:9px;
+	letter-spacing:4px;
+	color:#FFFFFF;	
+	background-color:#000000;
+	text-decoration:underline;
+}
+.aboutLink:visited
+{
+	font-family:Verdana;
+	font-size:9px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+	background-color:#000000;
+	text-decoration:underline;
+	
+}
+
+.aboutusHead
+{
+	font-family:Verdana;
+	font-size:10px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.text1_9
+{
+	font-family:Verdana;
+	font-size:9px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+}
+
+.text1_9B
+{
+	font-family:Verdana;
+	font-size:9px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.text1B
+{
+	font-family:Verdana;
+	font-size:8px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.text1sp2
+{
+	font-family:Verdana;
+	font-size:9px;
+	letter-spacing:2px;
+	color:#FFFFFF;
+}
+
+.text1sp2B
+{
+	font-family:Verdana;
+	font-size:10px;
+	letter-spacing:2px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.prImg
+{
+cursor:pointer;
+border-style: none;
+}
+
+.LinktabSelected
+{
+	background-color:black;
+	color:white;	
+	margin-right:3px;
+	font-family:Verdana;
+	font-size:9px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.imgThumb_border
+{
+	border:1px solid #FF9900;
+	cursor:pointer;
+}
+
+.imgThumb
+{
+	border:1px solid black;
+	cursor:pointer;
+}
+
+.copyRight
+{
+	font-family:Verdana;
+	font-size:9px;	
+	color:	#707070   ;
+}
+
+.copyRightLink
+{
+	font-family:Verdana;
+	font-size:9px;	
+	color:	#707070   ;
+	text-decoration:underline;
+}
+.copyRightLink:visited
+{
+	font-family:Verdana;
+	font-size:9px;	
+	color:	#707070  ;
+	text-decoration:underline;
+	
+}
+
+.para-text
+{
+    font-family:Verdana;
+	font-size:10px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+}
+
+.awards_main
+{
+	font-family:Verdana;
+	font-size:14px;
+	letter-spacing:12px;
+	color:#fff;
+	font-weight:bold;
+}
+
+.awards_sub
+{
+	font-family:Verdana;
+	font-size:12px;
+	letter-spacing:12px;
+	color:#fff;
+	font-weight:bold;
+}
+
+.awards_link,visited
+{
+	font-family:Verdana;
+	font-size:10px;
+	letter-spacing:2px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+.completed_txt
+{
+	font-family:Verdana;
+	font-size:10px;
+	letter-spacing:3px;
+	color:#FFFFFF;
+}
+
+.completed_head
+{
+	font-family:Verdana;
+	font-size:12px;
+	letter-spacing:4px;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+/* jQuery lightBox plugin - Gallery style */
+#gallery {
+		background-color: #000;
+		padding: 10px;
+		width: 520px;
+	}
+	#gallery ul { list-style: none;border:2px solid #000;margin:0;}
+	#gallery ul li  { display: inline;  }
+	#gallery ul img {
+		border: 1px solid #000;
+		border-width: 3px 3px 0px;
+	}
+	#gallery ul a:hover img {
+		border: 3px solid #202020 ;
+		border-width: 3px 3px 0px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #202020 ; }
+	
+	.divcrop { width: 72px; height: 72px;display:inline;}
+	.divcrop img{width:100px;}
+	.crop{
+	float:left;
+	margin:.5em 10px .5em 0;
+	overflow:hidden; /* this is important */
+	
+	width:60px;
+	height:60px;
+	}
+	/* input values to crop the image: top, right, bottom, left */
+.crop img{
+	margin:-20px -15px -40px -55px;width:100px;
+	}
+	
